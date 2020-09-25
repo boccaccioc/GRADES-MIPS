@@ -1,0 +1,4 @@
+2c2
+< DELETE (0) 50 66 Sam
+---
+> DELETE (0) 50 66 xxx

@@ -1,0 +1,154 @@
+8c8
+< LOOKUP (15) 47 46 rPKWEqpvnxAX
+---
+> LOOKUP (15) 47 46 xxx
+10,11c10,11
+< LOOKUP (13) 80 67 wUJv
+< LOOKUP (15) 47 46 rPKWEqpvnxAX
+---
+> LOOKUP (13) 80 67 xxx
+> LOOKUP (15) 47 46 xxx
+15,16c15,16
+< LOOKUP (22) 77 69 VJYtPcADdNK
+< DELETE (12) 22 82 tqsiEiwA
+---
+> LOOKUP (22) 77 69 xxx
+> DELETE (12) 22 82 xxx
+19,25c19,25
+< LOOKUP (15) 47 46 rPKWEqpvnxAX
+< LOOKUP (15) 47 46 rPKWEqpvnxAX
+< LOOKUP (6) 29 49 QtC
+< LOOKUP (13) 80 67 wUJv
+< LOOKUP (14) 62 61 ctcfFKKZN
+< LOOKUP (15) 47 46 rPKWEqpvnxAX
+< LOOKUP (22) 77 69 VJYtPcADdNK
+---
+> LOOKUP (15) 47 46 xxx
+> LOOKUP (15) 47 46 xxx
+> LOOKUP (6) 29 49 xxx
+> LOOKUP (13) 80 67 xxx
+> LOOKUP (14) 62 61 xxx
+> LOOKUP (15) 47 46 xxx
+> LOOKUP (22) 77 69 xxx
+27c27
+< DELETE (13) 80 67 wUJv
+---
+> DELETE (13) 80 67 xxx
+30,37c30,37
+< LOOKUP (6) 29 49 QtC
+< LOOKUP (10) 83 47 ya
+< LOOKUP (14) 62 61 ctcfFKKZN
+< LOOKUP (15) 47 46 rPKWEqpvnxAX
+< LOOKUP (17) 95 42 zrOqitm
+< LOOKUP (21) 76 85 yF
+< LOOKUP (22) 77 69 VJYtPcADdNK
+< LOOKUP (17) 95 42 zrOqitm
+---
+> LOOKUP (6) 29 49 xxx
+> LOOKUP (10) 83 47 xxx
+> LOOKUP (14) 62 61 xxx
+> LOOKUP (15) 47 46 xxx
+> LOOKUP (17) 95 42 xxx
+> LOOKUP (21) 76 85 xxx
+> LOOKUP (22) 77 69 xxx
+> LOOKUP (17) 95 42 xxx
+40c40
+< LOOKUP (11) 78 49 FbEvjIcP
+---
+> LOOKUP (11) 78 49 xxx
+43,44c43,44
+< LOOKUP (14) 62 61 ctcfFKKZN
+< DELETE (22) 77 69 VJYtPcADdNK
+---
+> LOOKUP (14) 62 61 xxx
+> DELETE (22) 77 69 xxx
+46,64c46,64
+< DELETE (13) 30 37 ZdXWI
+< LOOKUP (6) 29 49 QtC
+< LOOKUP (10) 83 47 ya
+< LOOKUP (11) 78 49 FbEvjIcP
+< LOOKUP (14) 62 61 ctcfFKKZN
+< LOOKUP (15) 47 46 rPKWEqpvnxAX
+< LOOKUP (17) 95 42 zrOqitm
+< LOOKUP (20) 85 2 dQODeXySx
+< LOOKUP (21) 76 85 yF
+< LOOKUP (26) 75 58 jrsRQudtlTbe
+< LOOKUP (6) 29 49 QtC
+< LOOKUP (10) 83 47 ya
+< LOOKUP (11) 78 49 FbEvjIcP
+< LOOKUP (14) 62 61 ctcfFKKZN
+< LOOKUP (15) 47 46 rPKWEqpvnxAX
+< LOOKUP (17) 95 42 zrOqitm
+< LOOKUP (20) 85 2 dQODeXySx
+< LOOKUP (21) 76 85 yF
+< LOOKUP (26) 75 58 jrsRQudtlTbe
+---
+> DELETE (13) 30 37 xxx
+> LOOKUP (6) 29 49 xxx
+> LOOKUP (10) 83 47 xxx
+> LOOKUP (11) 78 49 xxx
+> LOOKUP (14) 62 61 xxx
+> LOOKUP (15) 47 46 xxx
+> LOOKUP (17) 95 42 xxx
+> LOOKUP (20) 85 2 xxx
+> LOOKUP (21) 76 85 xxx
+> LOOKUP (26) record does not exist
+> LOOKUP (6) 29 49 xxx
+> LOOKUP (10) 83 47 xxx
+> LOOKUP (11) 78 49 xxx
+> LOOKUP (14) 62 61 xxx
+> LOOKUP (15) 47 46 xxx
+> LOOKUP (17) 95 42 xxx
+> LOOKUP (20) 85 2 xxx
+> LOOKUP (21) 76 85 xxx
+> LOOKUP (26) record does not exist
+66,74c66,74
+< LOOKUP (6) 29 49 QtC
+< LOOKUP (10) 83 47 ya
+< LOOKUP (11) 78 49 FbEvjIcP
+< LOOKUP (14) 62 61 ctcfFKKZN
+< LOOKUP (15) 47 46 rPKWEqpvnxAX
+< LOOKUP (17) 95 42 zrOqitm
+< LOOKUP (20) 85 2 dQODeXySx
+< LOOKUP (21) 76 85 yF
+< LOOKUP (26) 75 58 jrsRQudtlTbe
+---
+> LOOKUP (6) 29 49 xxx
+> LOOKUP (10) 83 47 xxx
+> LOOKUP (11) 78 49 xxx
+> LOOKUP (14) 62 61 xxx
+> LOOKUP (15) 47 46 xxx
+> LOOKUP (17) 95 42 xxx
+> LOOKUP (20) 85 2 xxx
+> LOOKUP (21) 76 85 xxx
+> LOOKUP (26) record does not exist
+77c77
+< LOOKUP (10) 83 47 ya
+---
+> LOOKUP (10) 83 47 xxx
+81,92c81,92
+< DELETE (17) 95 42 zrOqitm
+< LOOKUP (5) 96 7 pmoKEI
+< LOOKUP (6) 29 49 QtC
+< LOOKUP (8) 94 40 y
+< LOOKUP (10) 83 47 ya
+< LOOKUP (11) 78 49 FbEvjIcP
+< LOOKUP (14) 62 61 ctcfFKKZN
+< LOOKUP (15) 47 46 rPKWEqpvnxAX
+< LOOKUP (20) 85 2 dQODeXySx
+< LOOKUP (21) 76 85 yF
+< LOOKUP (24) 50 29 TKtW
+< LOOKUP (26) 75 58 jrsRQudtlTbe
+---
+> DELETE (17) 95 42 xxx
+> LOOKUP (5) 96 7 xxx
+> LOOKUP (6) 29 49 xxx
+> LOOKUP (8) 94 40 xxx
+> LOOKUP (10) 83 47 xxx
+> LOOKUP (11) record does not exist
+> LOOKUP (14) 62 61 xxx
+> LOOKUP (15) 47 46 xxx
+> LOOKUP (20) 85 2 xxx
+> LOOKUP (21) record does not exist
+> LOOKUP (24) 50 29 xxx
+> LOOKUP (26) record does not exist

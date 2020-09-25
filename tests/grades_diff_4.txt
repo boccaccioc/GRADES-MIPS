@@ -1,0 +1,4 @@
+2c2
+< DELETE (88) 99 100 Joe
+---
+> DELETE (88) 99 100 xxx

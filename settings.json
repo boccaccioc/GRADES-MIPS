@@ -1,0 +1,32 @@
+{
+  "test_dir": "tests",
+  "mode": "spim",
+  "test_suite_names": ["bySeventeen", "recurse", "grades"],
+  "non_zero_exit_status_penalty": 1.0,
+  "memory_penalty": 1.0,
+  "test_suites": {
+    "bySeventeen": [
+      { "desc": "n = 2",  "args": ["tests/bySeventeen_input_0.txt"],  "diff": "normal", "valgrind": false },
+      { "desc": "n = 4",  "args": ["tests/bySeventeen_input_1.txt"],  "diff": "normal", "valgrind": false },
+      { "desc": "n = 7",  "args": ["tests/bySeventeen_input_2.txt"],  "diff": "normal", "valgrind": false },
+      { "desc": "n = 10", "args": ["tests/bySeventeen_input_3.txt"], "diff": "normal", "valgrind": false }
+    ],
+    "recurse": [
+      { "desc": "n = 0",  "args": ["tests/recurse_input_0.txt"],  "diff": "normal", "valgrind": false },
+      { "desc": "n = 2",  "args": ["tests/recurse_input_1.txt"],  "diff": "normal", "valgrind": false },
+      { "desc": "n = 4",  "args": ["tests/recurse_input_2.txt"],  "diff": "normal", "valgrind": false },
+      { "desc": "n = 7",  "args": ["tests/recurse_input_3.txt"],  "diff": "normal", "valgrind": false }
+    ],
+    "grades": [
+      { "desc": "insert",                         "args": ["tests/grades_input_0.txt"], "diff": "normal", "valgrind": false },
+      { "desc": "insert, lookup",                 "args": ["tests/grades_input_1.txt"], "diff": "normal", "valgrind": false },
+      { "desc": "insert, delete, lookup",         "args": ["tests/grades_input_2.txt"], "diff": "normal", "valgrind": false },
+      { "desc": "insert same thing twice",        "args": ["tests/grades_input_3.txt"], "diff": "normal", "valgrind": false },
+      { "desc": "try deleting after deletion",    "args": ["tests/grades_input_4.txt"], "diff": "normal", "valgrind": false },
+      { "desc": "insert and lookup different id", "args": ["tests/grades_input_5.txt"], "diff": "normal", "valgrind": false },
+      { "desc": "a few commands",                 "args": ["tests/grades_input_6.txt"], "diff": "normal", "valgrind": false },
+      { "desc": "random commands",                "args": ["tests/grades_input_7.txt"], "diff": "normal", "valgrind": false }
+    ]
+  }
+}
+

@@ -1,0 +1,16 @@
+3,5c3,5
+< LOOKUP (23) 89 76 Bob
+< LOOKUP (10) 70 85 Sam
+< DELETE (10) 70 85 Sam
+---
+> LOOKUP (23) record does not exist
+> LOOKUP (10) 70 85 xxx
+> DELETE (10) 70 85 xxx
+9c9
+< DELETE (132) 45 90 Jose
+---
+> DELETE (132) 45 90 xxx
+11c11
+< LOOKUP (264) 7 100 Alice
+---
+> LOOKUP (264) 7 100 xxx

@@ -1,0 +1,4 @@
+3c3
+< LOOKUP (0) 0 32 Bob
+---
+> LOOKUP (0) 0 32 xxx

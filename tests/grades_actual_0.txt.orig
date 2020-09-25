@@ -1,0 +1,7 @@
+SPIM Version 8.0 of January 8, 2010
+Copyright 1990-2010, James R. Larus.
+All Rights Reserved.
+See the file README for a full copyright notice.
+Loaded: /usr/lib/spim/exceptions.s
+PROMPT (COMMAND TYPE): PROMPT (ID): PROMPT (EXAM 1 SCORE): PROMPT (EXAM 2 SCORE): PROMPT (NAME): INSERT (23) 89 76 Bob
+PROMPT (COMMAND TYPE): 
